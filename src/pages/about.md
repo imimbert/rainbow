@@ -3,4 +3,5 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-This is my own blog website.
+这是我的 Blog 网站。
+简洁，内容为主。
