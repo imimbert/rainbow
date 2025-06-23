@@ -14,7 +14,7 @@ title: "About"
 https://blog.royo.one/posts/%E7%AC%AC%E4%B8%80%E5%8F%B0%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8F%B0%E5%BC%8F%E7%94%B5%E8%84%91/
 
 ## 环游世界进度
-<iframe src="https://imimbert.github.io/map.github.io"></iframe>
+<iframe src="https://imimbert.github.io/map.github.io" style="width: 400%; height: 400%;"></iframe>
 
 ## 学习技能和知识
 对于编程的兴趣类似于 minecraft . 享受从无到有的创造过程，享受用算法解决问题的过程。曾经有人问我是不是以后要学计算机，我也不知道，会不会兴趣终究被磨灭。不过我现在倾向于将它永远作为爱好。
